@@ -1,0 +1,2 @@
+#permasalahan banyak orang yang masih binggun tentang selera musik yang mereka sukai 
+#jadi saya membuat program untuk mengidentifikasi genre musik yang mereka sukai
